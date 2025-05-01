@@ -29,6 +29,3 @@ An interactive Augmented Reality (AR) app built using **Unity** and **AR Foundat
 4. In **Build Settings**, add all scenes in order  
 5. Connect a compatible AR device (or test in Unity Editor with mouse controls)  
 6. Build and run the app on your AR-enabled device
-
-## 📁 Project Structure
-Assets/ ├── Scenes/ # Home and organ-specific scenes ├── Models/ # 3D organ models (FBX/OBJ) ├── Materials/ # Custom materials for organs ├── Prefabs/ # Prefabs for reuse ├── Scripts/ # UI navigation & interaction scripts ├── UI/ # Button layout and canvas └── Plugins/ # AR Foundation & XR dependencies
