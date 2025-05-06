@@ -3,4 +3,4 @@
 
 You can download or view the demo video below:
 
-[Download the demo video](./AR_Anatomy.mp4)
+[Download the demo video](./Anatomy_AR.mp4)
