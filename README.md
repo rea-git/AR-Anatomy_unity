@@ -11,7 +11,7 @@ This app features Augmented Reality functionality, allowing users to interact wi
 ### How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AR-Anatomy-App.git
+   git clone https://github.com/rea-git/AR-Anatomy_unity.git
 ## Home Scene
 ![Home Screen](./first.jpg)
 ## Sample Scene
