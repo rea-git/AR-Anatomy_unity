@@ -1,3 +1,3 @@
 ![Home Screen](./first.jpg)
-![Heart Scene](./second.jpg)
-![Intestine Scene](./third.jpg)
+![Heart Scene](./two.jpg)
+![Intestine Scene](./three.jpg)
